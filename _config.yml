@@ -1,14 +1,26 @@
-layout_spectrum: 0.9903172645717859
-typography_spectrum: 0.48762593301944435
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.07021277
 color:
-  brandStrength: 0.15339678502641618
-  lightness: 0.8749801078811288
-  saturation: 0.7419643150642514
-  rhythmicContrast: 0.7546057857107371
+  saturation: 0.5702128
+  brandStrength: 0.1533967850264162
+  lightness: 0.3106383
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+  rhythmicContrast: 0.6042553
+layout_spectrum: 0.1446809
 name: Apptitudde
